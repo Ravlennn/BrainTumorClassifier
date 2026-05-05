@@ -1,0 +1,9 @@
+# Dataset
+dataset/
+data/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+utils/__pycache__/

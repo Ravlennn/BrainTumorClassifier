@@ -7,6 +7,7 @@ debugpy==1.8.20
 decorator==5.2.1
 executing==2.2.1
 fonttools==4.62.1
+git-filter-repo==2.47.0
 ImageIO==2.37.3
 ipykernel==7.2.0
 ipython==9.12.0
@@ -27,6 +28,7 @@ numpy==2.4.3
 numpy-typing-compat==20251206.2.4
 optype==0.17.0
 packaging==26.0
+pandas==3.0.2
 parso==0.8.6
 pillow==12.1.1
 platformdirs==4.9.4
@@ -46,5 +48,6 @@ stack-data==0.6.3
 tifffile==2026.3.3
 tornado==6.5.5
 traitlets==5.14.3
+tzdata==2026.2
 wcwidth==0.6.0
 widgetsnbextension==4.0.15
